@@ -1,0 +1,53 @@
+#max-altitude .meter{
+    background-color:#a2662a;
+}
+
+
+
+th{
+    background-color: SteelBlue;
+    color:white;
+}
+
+
+/* Change the background color of the meter rows in the horizontal distance table */
+#horizontal-distance .meter {
+    background-color: SeaGreen; /* Background color for meter rows in horizontal distance */
+}
+
+/* Change the background color of the feet rows in the horizontal distance table */
+#horizontal-distance .feet {
+    background-color: MediumAquamarine; /* Background color for feet rows in horizontal distance */
+}
+
+/* Change the background color of the feet rows in the maximum altitude table */
+#max-altitude .feet {
+    background-color: Peru; /* Background color for feet rows in maximum altitude */
+}
+
+
+/* Change the background color of the meter rows in the maximum altitude table */
+#max-altitude .meter {
+    background-color: #a2662a; /* Existing rule */
+}
+
+/* Change the background color of the meter rows in the horizontal distance table */
+#horizontal-distance .meter {
+    background-color: SeaGreen; /* Background color for meter rows in horizontal distance */
+}
+
+/* Change the background color of the feet rows in the horizontal distance table */
+#horizontal-distance .feet {
+    background-color: MediumAquamarine; /* Background color for feet rows in horizontal distance */
+}
+
+/* Change the background color of the feet rows in the maximum altitude table */
+#max-altitude .feet {
+    background-color: Peru; /* Background color for feet rows in maximum altitude */
+}
+
+/* Style for table headers */
+th {
+    background-color: SteelBlue;
+    color: white;
+}
